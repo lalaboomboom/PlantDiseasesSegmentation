@@ -1,1 +1,1 @@
-# DINOv3-plant-disease-detection
+DINOv3 architecture implemented.
